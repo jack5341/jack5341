@@ -4,10 +4,9 @@
 <h3 align="center">An Open source Developer</h3>
 
 <p align="center">
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg
-" alt="javascript" width="40" height="40"/>
-	<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40">
-	<img src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="nodejs" width="40"><img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="nodejs" width="40">
+	<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
+	<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="node.js" width="40">
+	<img src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="express.js" width="40"><img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="nodejs" width="40">
 </p>
 
 
