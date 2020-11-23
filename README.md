@@ -2,9 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Nedim AKAR</h1>
 <h3 align="center">An Open source Developer</h3>
-<center>
-<small align="center">	will be MERN developer soon</small>	
-</center>
 
 <p align="center">
 	<img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="nodejs" width="40">
