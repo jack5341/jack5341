@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Nedim AKAR</h1>
 <h3 align="center">An Open source Developer</h3>
+<small>	will be MERN developer soon</small>
 
 <p align="center">
 	<img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="nodejs" width="40">
 	<img src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="express.js" width="40">
 	<img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react.js" width="40">
-	<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"><br>
-	will be MERN developer soon
+	<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40">
 </p>
 
 
