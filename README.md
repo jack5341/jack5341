@@ -11,7 +11,8 @@
 </p>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jack5341&show_icons=true&locale=en" alt="losilyus" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jack5341&show_icons=true&locale=en&layout=compact" alt="losilyus" /></p>
+
 
 <p align="center">
     <a href="https://www.instagram.com/nedimmakar/?hl=de" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" height="30" width="30" /></a>    
