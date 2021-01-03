@@ -14,7 +14,7 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jack5341&show_icons=true&theme=tokyonight" alt="nedimakar" /></p>
-
+┍<br/>
 <p align="center">
     <a href="https://www.instagram.com/nedimmakar/?hl=de" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" height="30" width="30" /></a>
     <a href="https://www.linkedin.com/in/nedim-akar-9a4982189/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a> 
