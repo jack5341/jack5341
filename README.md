@@ -1,5 +1,5 @@
 
-
+┍<br/>
 <h1 align="center">Hi 👋, I'm Nedim AKAR</h1>
 <h3 align="center">An Open source Developer</h3>
 
@@ -14,7 +14,6 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jack5341&show_icons=true&theme=tokyonight" alt="nedimakar" /></p>
-┍<br/>
 <p align="center">
     <a href="https://www.instagram.com/nedimmakar/?hl=de" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" height="30" width="30" /></a>
     <a href="https://www.linkedin.com/in/nedim-akar-9a4982189/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a> 
@@ -22,4 +21,4 @@
 <a href="https://open.spotify.com/user/c0fk9u5rl5t70j643k3la0swo?si=8ta-JhcDRWaXWKu1ii3yFg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" height="30" width="30" /></a>   
     <a href="https://twitter.com/0jack5341" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30" /></a>      
 </p>
-
+┙
