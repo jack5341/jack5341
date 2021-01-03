@@ -1,5 +1,5 @@
 <p align="left">┍</p>
-<p align="right">┒</p>
+<p style="float: right" align="right">┒</p>
 
 <h1 align="center">Hi 👋, I'm Nedim AKAR</h1>
 <h3 align="center">An Open source Developer</h3>
