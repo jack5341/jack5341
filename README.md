@@ -6,7 +6,7 @@
 <p align="center">
 	<img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="nodejs" width="40">
 	<img src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="express.js" width="40">
-	<img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react.js" width="40">
+	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react.js" width="40">
 	<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40">
 </p>
 
