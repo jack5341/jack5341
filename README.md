@@ -8,6 +8,9 @@
 	<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169186.png" alt="express.js" width="40">
 	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react.js" width="40">
 	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="mongodb" width="40">
+	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="boostrap" width="40">
+	<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="40">
+	<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html" width="40">	
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jack5341&show_icons=true&theme=tokyonight" alt="nedimakar" /></p>
