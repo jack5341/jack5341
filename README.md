@@ -1,8 +1,5 @@
 
 <p align="left">┍ </p>
-<center>
-<img src="https://raw.githubusercontent.com/jack5341/jack5341/master/img/754606.jpg">
-</center>
 
 <h1 align="center">Hi 👋, I'm Nedim AKAR</h1>
 <h3 align="center">An Open source Developer</h3>
