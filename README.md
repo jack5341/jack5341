@@ -4,10 +4,10 @@
 <h3 align="center">An Open source Developer</h3>
 
 <p align="center">
-	<img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="nodejs" width="40">
-	<img src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="express.js" width="40">
+	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" alt="nodejs" width="40">
+	<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169186.png" alt="express.js" width="40">
 	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react.js" width="40">
-	<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40">
+	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="mongodb" width="40">
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jack5341&show_icons=true&theme=tokyonight" alt="nedimakar" /></p>
