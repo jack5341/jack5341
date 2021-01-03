@@ -1,7 +1,7 @@
 
 <p align="left">┍ </p>
 <center>
-<img src="https://raw.githubusercontent.com/jack5341/jack5341/master/img/754606.jpg" stlye="width:100%">
+<img src="https://raw.githubusercontent.com/jack5341/jack5341/master/img/754606.jpg">
 </center>
 
 <h1 align="center">Hi 👋, I'm Nedim AKAR</h1>
