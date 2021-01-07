@@ -2,8 +2,8 @@
 <h1>Hi 👋, I'm Nedim AKAR</h1>
 <p>
 Hi guys here is an full-stack web-developer i working with JavaScript and i am no happy 👌 <br/>
- - 📫 How to reach me **nedim.akar53411@gmail.com**
- - 🚪 Personal website **https://jack5341.github.io** 
+ - 📫 How to reach me nedim.akar53411@gmail.com <br/>
+ - 🚪 Personal website https://jack5341.github.io
 </p>
 <h3>Contact with me</h3>
 <hr/>
