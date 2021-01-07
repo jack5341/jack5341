@@ -1,5 +1,10 @@
 <p> <img src="https://komarev.com/ghpvc/?username=jack5341&label=Profile%20views&color=0e75b6&style=flat" alt="jack5341" /> </p>
-<h1>Hi 👋, I'm Nedim AKAR<small>(jack5341)</small></h1>
+<h1>Hi 👋, I'm Nedim AKAR</h1>
+<p>
+Hi guys here is an full-stack web-developer i working with JavaScript and i am no happy 👌
+ - 📫 How to reach me **nedim.akar53411@gmail.com**
+ - 🚪 Personal website **https://jack5341.github.io** 
+</p>
 <h3>Contact with me</h3>
 <hr/>
 <a href="mailto:nedim.akar53411?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/g‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
