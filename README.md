@@ -1,6 +1,6 @@
 
 <p align="left">┍ </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jack5341&label=Profile%20views&color=0e75b6&style=flat" alt="losilyus" /> </p>
 <h1 align="center">Hi 👋, I'm Nedim AKAR</h1>
 <h3 align="center">An Open source Developer</h3>
 
