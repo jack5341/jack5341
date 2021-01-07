@@ -1,7 +1,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=jack5341&label=Profile%20views&color=0e75b6&style=flat" alt="jack5341" /> </p>
 <h1>Hi 👋, I'm Nedim AKAR</h1>
 <p>
-Hi guys here is an full-stack web-developer i working with JavaScript and i am no happy 👌 <br/>
+Hi guys here is an Full Stack Web Developer i working with JavaScript and i am no happy 👌 <br/>
  - 📫 How to reach me nedim.akar53411@gmail.com <br/>
  - 🚪 Personal website https://jack5341.github.io
 </p>
