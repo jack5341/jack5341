@@ -27,3 +27,5 @@ Hi guys here is an Full Stack Web Developer i working with JavaScript and i am n
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jack5341&show_icons=true&theme=tokyonight" alt="nedimakar" /></p>
+
+![Metrics](https://metrics.lecoq.io/jack5341?template=terminal&base.metadata=0&config.timezone=Europe%2FBerlin&config.animated=true)
