@@ -15,13 +15,14 @@ Hi guys here is an Full Stack Web Developer i working with JavaScript and i am n
   Which technologies do I use
   <h3/>
 <p>
-	<code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" alt="nodejs" width="40"></code>
-	<code><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169186.png" alt="express.js" width="40"></code>
+	<code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" alt="nodejs" width="40"></code>
+	<code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_logo_icon_146527.png" alt="express.js" width="40"></code>
 	<code><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40"></code>
-	<code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react.js" width="40"></code>
-	<code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="mongodb" width="40"></code>
-	<code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="boostrap" width="40"></code>
-	<code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="40"></code>
+	<code><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" alt="react.js" width="40"></code>
+	<code><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/next_js_logo_icon_145038.png" alt="next.js" width="40"></code>
+	<code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="mongodb" width="40"></code>
+	<code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="boostrap" width="40"></code>
+	<code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/gitcola_102985.png" alt="git" width="40"></code>
 	<code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html" width="40"></code>
 	<code><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/heroku_icon_130912.png" alt="heroku" width="40"></code>
 </p>
