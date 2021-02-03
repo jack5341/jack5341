@@ -15,15 +15,15 @@ Hi guys here is an Full Stack Web Developer i working with JavaScript and i am n
   Which technologies do I use
   <h3/>
 <p>
-	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" alt="nodejs" width="40">
-	<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169186.png" alt="express.js" width="40">
-	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40">
-	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react.js" width="40">
-	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="mongodb" width="40">
-	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="boostrap" width="40">
-	<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="40">
-	<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html" width="40">	
-	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/heroku_icon_130912.png" alt="heroku" width="40">	
+	<code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" alt="nodejs" width="40"></code>
+	<code><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169186.png" alt="express.js" width="40"></code>
+	<code><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40"></code>
+	<code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react.js" width="40"></code>
+	<code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="mongodb" width="40"></code>
+	<code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="boostrap" width="40"></code>
+	<code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="40"></code>
+	<code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html" width="40"></code>
+	<code><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/heroku_icon_130912.png" alt="heroku" width="40"></code>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jack5341&show_icons=true&theme=tokyonight" alt="nedimakar" /></p>
