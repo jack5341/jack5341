@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/jack5341/jack5341/master/media/banner.jpg" width="100%"/><br/>
 <p> <img src="https://komarev.com/ghpvc/?username=jack5341&label=Profile%20views&color=0e75b6&style=flat" alt="jack5341" /> </p>
 <h1>Hi 👋, I'm Nedim AKAR</h1>
 <p>
