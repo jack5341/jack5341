@@ -28,5 +28,4 @@ Hi guys here is a Full-Stack Web Developer. I working with JavaScript so i am no
 	<code><img src="https://openjsf.org/wp-content/uploads/sites/84/2020/12/fastify_large_square.png" alt="fastify" width="40"/></code>
 	<code><img src="https://pbs.twimg.com/profile_images/1252531684353998848/6R0-p1Vf_400x400.jpg" alt="vercel" width="40"/></code>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jack5341&show_icons=true&theme=tokyonight" alt="nedimakar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jack5341" alt="jack5341" /></p>
