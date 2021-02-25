@@ -11,9 +11,9 @@ Hi guys here is a Full-Stack Web Developer. I working with JavaScript so i am no
   <a href="https://www.linkedin.com/in/nedim-akar/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/0jack5341" target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://steamcommunity.com/id/jack5341" target="_blank"><img src="https://img.shields.io/badge/Steam-171a21.svg?style=for-the-badge&logo=steam"/></a>
-  <h3>
-   🛠 Tech Stack
-  <h3/>
+  
+### 🛠 Tech Stack 
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
