@@ -14,20 +14,20 @@ Hi guys here is a Full-Stack Web Developer. I working with JavaScript so i am no
   <h3>
    🛠 Tech Stack
   <h3/>
-<p>
-	<code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" alt="nodejs" width="40"></code>
-	<code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_logo_icon_146527.png" alt="express.js" width="40"></code>
-	<code><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40"></code>
-	<code><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" alt="react.js" width="40"></code>
-	<code><img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/react_icon_135264.png" alt="react native" width="40"></code>
-	<code><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/next_js_logo_icon_145038.png" alt="next.js" width="40"></code>
-	<code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="40"></code>
-	<code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="mongodb" width="40"></code>
-	<code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="boostrap" width="40"></code>
-	<code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/gitcola_102985.png" alt="git" width="40"></code>
-	<code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html" width="40"></code>
-	<code><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/heroku_icon_130912.png" alt="heroku" width="40"></code>
-	<code><img src="https://openjsf.org/wp-content/uploads/sites/84/2020/12/fastify_large_square.png" alt="fastify" width="40"/></code>
-	<code><img src="https://pbs.twimg.com/profile_images/1252531684353998848/6R0-p1Vf_400x400.jpg" alt="vercel" width="40"/></code>
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![MongoDb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=Mongodb)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
+![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jack5341" alt="jack5341" /></p>
