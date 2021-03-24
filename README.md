@@ -29,7 +29,6 @@ Hi guys here is a Full-Stack Web Developer. I working with JavaScript so i am no
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
 ![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 <p>
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jack5341&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
