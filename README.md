@@ -1,34 +1,8 @@
-<p> <img src="https://komarev.com/ghpvc/?username=jack5341&label=Profile%20views&color=0e75b6&style=flat" alt="jack5341" /> </p>
-<h1>Hi 👋, I'm Nedim AKAR</h1>
-<p>
-Hi guys here is a Full-Stack Web Developer. I working with JavaScript so i am not happy 👌 <br/>
- - 📫 How to reach me: <a href="mailto:nedim.akar53411@gmail.com">nedim.akar53411@gmail.com</a><br/>
- - 🚪 Personal website: https://jack5341.github.io
-</p>
-<h3>📩 Contact me</h3>
+<img align="left" width="220" src="https://freepngimg.com/thumb/minecraft/80468-art-green-minecraft-pixel-text-hq-image-free-png.png">
 
-<a href="mailto:nedim.akar53411?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/g‑mail-black.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-<a href="https://www.facebook.com/nedim.akar.9822" target="_blank"><img src="https://img.shields.io/badge/facebook-black.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nedim-akar/" target="_blank"><img src="https://img.shields.io/badge/linkedin-black.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/0jack5341" target="_blank"><img src="https://img.shields.io/badge/twitter-black.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://steamcommunity.com/id/jack5341" target="_blank"><img src="https://img.shields.io/badge/Steam-black.svg?style=for-the-badge&logo=steam"/></a>
-  
-### 🛠 Tech Stack 
+[![github](https://img.shields.io/badge/-jack5341-313131?style=flat-square&labelColor=098c00&logo=github&logoColor=white&color=)](https://github.com/jack5341)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![MongoDb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=Mongodb)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
-![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-<p>
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jack5341&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</p>
+[![pgp](https://img.shields.io/badge/pgp-PGP--Key-313131?style=flat-square&labelColor=098c00&color=)](https://github.com/jack5341.gpg)
+[![twitter](https://img.shields.io/badge/-0jack5341_-313131?style=flat-square&labelColor=098c00&logo=twitter&logoColor=white&color=)](https://twitter.com/0jack5341)
+[![linkedin](https://img.shields.io/badge/-nedim--akar-313131?style=flat-square&labelColor=098c00&logo=linkedin&logoColor=white&color=)](https://www.linkedin.com/in/nedim-akar/)
+[![steam](https://img.shields.io/badge/-jack5341-313131?style=flat-square&labelColor=098c00&logo=steam&logoColor=white&color=)](https://steamcommunity.com/id/jack5341)
