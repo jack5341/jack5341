@@ -8,4 +8,4 @@
 
 [![linkedin](https://img.shields.io/badge/-nedim--akar-313131?style=flat-square&labelColor=098c00&logo=linkedin&logoColor=white&color=)](https://www.linkedin.com/in/nedim-akar/)
 
-[<p align="center"> <img src="https://spotify-readme-stat.vercel.app/api/run-spotify-status" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/c0fk9u5rl5t70j643k3la0swo)
+[<img src="https://spotify-readme-stat.vercel.app/api/run-spotify-status" alt="Playing Now" width="600" />](https://open.spotify.com/user/c0fk9u5rl5t70j643k3la0swo)
